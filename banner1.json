@@ -1,0 +1,37 @@
+{
+  "id": 210,
+  "name": "Julias bästa banner som inte är trasig",
+  "trackingid": "§2435+98",
+  "tags": [],
+  "elements": [
+    {
+      "type": "title",
+      "style": "styledHeader2",
+      "value": "Vår tid tillsammans"
+    },
+    {
+      "type": "image",
+      "value": "https://test-bb-images.akamaized.net/media-library/cfc9b11f1a394374b01557250ebf9a5f.jpg"
+    },
+    {
+      "type": "title",
+      "style": "styledHeader1",
+      "value": "1567"
+    },
+    {
+      "type": "text",
+      "style": "body1",
+      "value": "dagar"
+    },
+    {
+      "type": "button",
+      "style": "medium-bordered-button",
+      "value": "Hoppa direkt till översikten",
+      "target": {
+        "type": "popup",
+        "link": "https://test-api.bookbeat.com/api/banners/popups/211",
+        "trackingid": "§2435+98"
+      }
+    }
+  ]
+}
